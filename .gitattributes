@@ -1,0 +1,3 @@
+*.L5K merge=LogixCompare
+*.L5X merge=LogixCompare
+*.ACD merge=LogixCompare
