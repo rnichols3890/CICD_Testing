@@ -1,0 +1,4 @@
+open "CI_CD_Example_Project.acd"
+setpath "LogixEcho\172.0.16.1\Chassis\1\Slot\0"
+download silent
+close
